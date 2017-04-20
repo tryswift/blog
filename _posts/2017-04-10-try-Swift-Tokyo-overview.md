@@ -12,7 +12,7 @@ It has been two months since the try! Swift Tokyo Conference. 34 Speakers, 50+ S
 
 try! Swift is not a platform, it’s a community, which gives more importance to networking. That’s why try! Swift have organised a special Speakers meet-up in Pivotal Labs on March 1st. It was an amazing experience, speakers from around the world got know each other, Pivotal Labs have provided food & drinks for everyone, people were so happy. Also try! Swift took all speakers to the Tokyo City SkyDeck View, it was awesome, looking at the city from top of the world and seeing sun hiding in Mount Fuji are the best moments ever.
 
-![try! Swift Conference]()
+![try! Swift Tokyo Speaker Party](/../images/tokyo-2017/speaker-party.jpeg)
 
 
 <!-- Pixyll now features:
