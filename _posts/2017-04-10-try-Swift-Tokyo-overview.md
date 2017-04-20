@@ -2,9 +2,11 @@
 layout:     post
 title:      try! Swift Tokyo 2017 
 date:       2017-04-10
-summary:    Now, Pixyll is lighter weight and more customizable than before.
-categories: jekyll pixyll
+summary:    try! Swift Tokyo International Conference
+categories: try!Swift Tokyo 
 ---
+
+![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/try-swift-tokyo-2017.jpg)
 
 This article is an overview of try! Swift Tokyo Conference which happened on 2nd & 3rd March 2017.
 
@@ -22,15 +24,37 @@ This year we have organised the Tokyo conference in Belle Shinjuku Park, it's a 
 
 While we were setting up the whole conference hall, we saw this amazing thing, this conference attendee came at 06:00 AM. We could see that dedication. Just one hour later people came, there were already a queue by 07:00 AM. 
 
-![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/first-attendee.jpg)
+![try! Swift Tokyo First Attendee](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/first-attendee.jpg)
 
 As time passed away, attendees came in. And, we got more than 500+ attendees in the conference hall by 09:00 AM.  
 
-![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/lots-of-attendees.jpg)
+![try! Swift Tokyo Attendees](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/lots-of-attendees.jpg)
 
-This year's conference id card was beautiful, Riko bird, wearing cute kimono with Imperial Palace background. The whole scene get's more life when Sakura leaves falling down from the sky through the milky clouds. Thanks to our fantastic designer and contributor Yuconvin for this incredible work.
+This year's conference id card was beautiful, Riko bird, wearing cute Japanese Kimono with Imperial Palace in background. The whole scene get's more life when Sakura leaves falling down from the sky through the milky clouds. Thanks to our fantastic designer and contributor Yuconvin for this incredible work.
 
-![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/conference-id-card.jpg)
+![try! Swift Tokyo Conference Id Card](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/conference-id-card.jpg)
+
+This year's Tokyo conference was blessed by 50+ sponsors, there were lot of sponsors with stalls, it was really fun to roam around and take a look at each and every product. There were fresh coffee, natural juice, sponsor swags, 
+
+![try! Swift Tokyo Firebase Chilly Sause](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/firebase-chilly-sause.jpg)
+
+
+Speaker Party Photo
+Attendees Party Photos
+
+![try! Swift Tokyo Hackathon](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/hackathon.jpg)
+
+![try! Swift Tokyo Hackathon Robot](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/hackathon-robot.jpg)
+
+
+![try! Swift Tokyo 2D Game Workshop](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/2d-game-workshop.jpg)
+
+
+![try! Swift Tokyo Realm Workshop](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/realm-workshop.jpg)
+
+
+![try! Swift Tokyo Hackathon Voting](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/voting-hackathon.jpg)
+
 
 
 
