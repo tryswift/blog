@@ -20,7 +20,17 @@ This year we have organised the Tokyo conference in Belle Shinjuku Park, it's a 
 
 ![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/conference-hall.jpeg)
 
+While we were setting up the whole conference hall, we saw this amazing thing, this conference attendee came at 06:00 AM. We could see that dedication. Just one hour later people came, there were already a queue by 07:00 AM. 
 
+![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/first-attendee.jpg)
+
+As time passed away, attendees came in. And, we got more than 500+ attendees in the conference hall by 09:00 AM.  
+
+![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/lots-of-attendees.jpg)
+
+This year's conference id card was beautiful, Riko bird, wearing cute kimono with Imperial Palace background. The whole scene get's more life when Sakura leaves falling down from the sky through the milky clouds. Thanks to our fantastic designer and contributor Yuconvin for this incredible work.
+
+![try! Swift Tokyo Empty Conference Hall](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/conference-id-card.jpg)
 
 
 
