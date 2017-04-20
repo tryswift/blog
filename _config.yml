@@ -3,7 +3,7 @@ title:       try! Swift Blog
 email:       alvin@tryswiftlabs.com
 author:      Alvin Varghese
 description: "try! Swift International Conference"
-baseurl:     "/"
+baseurl:     ""
 url:         "https://tryswift.co"
 date_format: "%b %-d, %Y"
 
