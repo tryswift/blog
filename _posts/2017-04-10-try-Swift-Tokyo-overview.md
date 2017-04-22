@@ -83,13 +83,15 @@ Finally, selecting the winners in hackathon was a huge task to us. We can't real
 
 ![try! Swift Tokyo Hackathon Voting](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/voting-hackathon.jpg)
 
-We still feel the energy of the conference, it feels that it just happened yesterday. try! Swift Conference attendees learned a lot, observed a lot, enjoyed a lot, and made a lot of connections. Poeple who have attended try! Swift shared their love via #tryswiftconf hashtag in Twitter, do check it out. 
+We still feel the energy of the conference, it feels that it just happened yesterday. try! Swift Conference attendees learned a lot, observed a lot, enjoyed a lot, and made a lot of connections. People who have attended try! Swift shared their love via #tryswiftconf hashtag in Twitter, do check it out. 
 
 try! Swift Conference is not a community now, it is a Family. A Family of Swifters. 
 
-Thanks to amazing organisers & volunteers who all have helped to make this happen. Without these people this would not have this much amazing. Their hard-work and dedication to the community is priceless. 
+Thanks to amazing organizers & volunteers who all have helped to make this happen. Without these people, this would not have this much amazing. Their hard-work and dedication to the community are priceless. 
 
 Would like to attend the next try! Swift Conference? Check out try! Swift India 2017 & try! Swift NYC 2017. 
+
+
 
 
 
