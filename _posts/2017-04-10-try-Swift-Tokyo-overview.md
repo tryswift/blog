@@ -17,7 +17,7 @@ try! Swift is not a platform, it’s a community of Swift Developers and Apple T
 ![try! Swift Tokyo Speaker Party](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/speaker-party.jpeg)
 
 ## Day 1 ##
-It was a beautiful morning, a morning which is excluded from the drizzling. it was so hard for International attendees to wake up early in the morning and run to the conference hall, it was super chilly. Near to the conference hall, there was a beautiful garden, even though we don't have to walk through the garden to reach the conference hall, we intentionally walk through it to absorb the fresh morning energy and also to listen to the chirping of Japanese birds. 
+It was a beautiful morning, a morning which was excluded from the drizzling. It was so hard for International attendees to wake up early in the morning and run to the conference hall, it was super chilly. On the way to the conference hall, there was a beautiful garden, even though we don't have to walk through the garden to reach the conference hall, we intentionally walk through it to absorb the fresh morning energy and also to listen to the chirping of Japanese birds. 
 
 This year we have organized the Tokyo conference in Belle Shinjuku Park, it's a big conference hall, it can easily accommodate around 1000+ people. When we reached there sharp at 06:00 AM, the conference hall was ready, there was a big main screen with two sub-screens in the middle, chairs and tables were properly arranged. We Stood at one end of the conference hall and took a deep breath by looking at 700+ chairs and three screens. Trust me, that was spectacular. 
 
@@ -77,7 +77,13 @@ Lunch time, we have provided four or five different type of Japanese lunch boxes
 </center>
 
 
-Later in the evening, we have organized a special Speaker party in a Japanese Karaoke room with food & drinks. It was super fun, more than 30 speakers were singing and dancing, no one will easily forget those good moments. Some of the speakers did Karaoke to some English songs, there were other non-Japanese people doing karaoke in Japanese songs, those were the craziest. Also, there was a Japanese person, who was singing a Linkin Park song in front of native English speakers. These moments were priceless, coming together as a community and breaking the language barrier, that was one of the amazing achievement of try! Swift Conference. 
+Later in the evening, we have organized a special Speaker party in a Japanese Karaoke room with food & drinks. It was super fun, more than 30 speakers were singing and dancing, no one will easily forget those good moments. Some of the speakers did Karaoke to some English songs, there were other non-Japanese people doing karaoke in Japanese songs, those were the craziest. Also, there was a Japanese person, who was singing a Linkin Park song in front of native English speakers. These moments were priceless, coming together as a community and breaking the language barrier, that was one of the amazing achievement of try! Swift Conference. Here are some of the Speaker party videos, they are the world-class best developers, also they are the best singers. 
+
+[![try! Swift Tokyo Conference Speaker Party](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/1-speaker-party.jpg)](https://raw.githubusercontent.com/tryswift/blog/master/videos/tokyo-2017/1.mp4)
+
+[![try! Swift Tokyo Conference Speaker Party](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/2-speaker-party.jpg)](https://raw.githubusercontent.com/tryswift/blog/master/videos/tokyo-2017/2.mp4)
+
+[![try! Swift Tokyo Conference Speaker Party](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/3-speaker-party.jpg)](https://raw.githubusercontent.com/tryswift/blog/master/videos/tokyo-2017/3.mp4)
 
 ## Day 2 ##
 On the second day evening, we organized a party for all conference attendees. It was a huge place and it could accommodate more than 700 members easily. It was a Christian themed cafe, with lights, demons statues, and lit candles. We have arranged food and drinks for everyone. It was the moment for everyone to come out of the conference hustle. Attendees could easily talk to speakers. Everyone was talking and connecting with everyone, a pure networking event. 
@@ -111,12 +117,7 @@ Thanks to amazing organizers & volunteers who all have helped to make this happe
 
 Would like to attend the next try! Swift Conference? Check out try! Swift India 2017 & try! Swift NYC 2017. 
 
-
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+Goodies, Swag Bags 
 
 
 
