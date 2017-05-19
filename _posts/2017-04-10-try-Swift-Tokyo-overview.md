@@ -31,10 +31,6 @@ When we reached there sharp at 06:00 AM, the conference hall was ready. There wa
 
 ![try! Swift Tokyo First Attendee](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/first-attendee.jpg)
 
-<center>
-<img src="https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/belle-salle-entrance.jpg">
-</center>
-
 Do you recognize the Japanese and English words in the sign below? Yes, the conference was bilingual. Since we organize the conference in the heart of Japan, most of the attendees were Japanese-speakers, so we made sure everyone understood where to go and what to do!
 
 <center>
