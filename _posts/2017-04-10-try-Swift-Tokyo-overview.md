@@ -78,29 +78,31 @@ On the second evening, we organized a big party for all conference attendees at 
 
 ## Day 3 ##
 
-Since our try! Swift Japan community is s big, two-day conference and bunch of workshops were not enough. That's why we came up with the idea of conducting a hackathon, and it turned out to be an amazing event. More than 130 people participated in the hackathon so many got prizes, who doesn't love Nintendo Switch? Yes, we gave out Nintendo Switches to winners.
+After two days of learning, the third day was dedicated to attendees getting hands-on in a fun hackathon! Over 130 attendees participated, and yes, we did give away a Nintendo Swift to the winners! But of course, the hackathon was not about the prizes. Anyone could participate.
 
 ![try! Swift Tokyo Hackathon](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/hackathon.jpg)
 
-It is so wonderful to see that people trying to accomplish amazing things in the hackathon, we saw a team trying to connect to this Robot using Swift Programming Language, well, that was really crazy. There were much more crazy ideas like this, people were building Xcode plugins, Server-Side Swift tools, Apps, translation tools, and much more.
+We were super impressed by what try! Swifters were able to accomiplish during the short hackathon. We saw a team trying to connect to a Robot using a Swift Playground! There were much more crazy creative ideas like this - participants were building Xcode plugins, Server-Side Swift tools, Apps, translation tools, and much more.
 
 ![try! Swift Tokyo Hackathon Robot](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/hackathon-robot.jpg)
 
-We have organized the workshops and hackathon parallel. There were three workshops IBM Kitura workshop, Realm workshop, and 2D game workshop. People loved all of these workshops. Attendees got their personal time with world-class speakers, they got more attention, and they learned a lot from the full day classroom style workshop. It was more like an interactive session, solving problems, grasping industry best practices and learning about the product. Photos from workshops are given below;
+It was super difficult to select winners. There were so many amazing final products! That's where speakers came to help! They paired up and selected the first round of 10 winning teams. The winning teams presented their project, and we then had everyone vote publicly using two colorful stickers that attendees stuck on a paper with their favorite team's names.
+
+![try! Swift Tokyo Hackathon Voting](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/voting-hackathon.jpg)
+
+It was a hard choice for everyone, but in the end, we gave away the Nintendo Switch, AirPods, a Drone, and many sponsor gifts! Check out all the [amazing projects here](https://tryswift.devpost.com/).
+
+Those who weren't interested in the hackathon had the option to attend one of the workshops we offered during the hackathon, including an IBM Kitura workshop, a Realm workshop, and a 2D game workshop. Some impromptu workshops formed as well - including one to set up open source Swift and a React Native Workshop!
 
 ![try! Swift Tokyo 2D Game Workshop](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/2d-game-workshop.jpg)
 ![try! Swift Tokyo Realm Workshop](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/realm-workshop.jpg)
 
-Finally, selecting the winners in hackathon was a huge task to us. We could not really choose one team because most of the team come with crazy working products. It was a tough task for us. That's why we decided to go for public voting. One of our organizers came up with this amazing idea of voting. We have given two color circular dots to all hackathon attendees, attendees can stick those dots in their favorite team's name. People were so confused after the presentation, the top ten ideas were really good, and it was really hard a person to choose the best two from them. Finally, we have given out Nintendo Switches, and other gifts to all winners and participants. Hackathon was super fun.
+It was a great day, with participants very happy about both the hackathon and the workshops. Attendees got more personal time with world-class speakers, they got help from our amazing volunteers, and they learned a lot solving problems.
 
-![try! Swift Tokyo Hackathon Voting](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/voting-hackathon.jpg)
+## Just the Beginning ##
 
-We still feel the energy of the conference, it feels like it just happened yesterday. try! Swift Conference attendees learned a lot, observed a lot, enjoyed a lot, and made a lot of connections. People who have attended try! Swift shared their love via #tryswiftconf hashtag in Twitter, do check it out.
+We still feel the energy of the conference as if it just happened yesterday. Event though the conference is over, the learning and community built during the event is just the beginning. Conference attendees continue to form study groups, meetups, and friendships in their community and around the world!
 
-try! Swift Conference is not a community now, it is a Family. A Family of Swifters.
+We own a bit thank you to the amazing organizers and volunteers who helped make this magic happen. Their hard work and dedication to the community is priceless.
 
-Thanks to amazing organizers & volunteers who all have helped to make this happen. Without these people, this would not have this much amazing. Their hard-work and dedication to the community are priceless.
-
-Would like to attend the next try! Swift Conference? Check out try! Swift India 2017 & try! Swift NYC 2017.
-
-Goodies, Swag Bags
+Would like to attend the next try! Swift Conference? Join our family at [try! Swift NYC](https://www.tryswift.co/events/2017/nyc/) and [try! Swift India](https://www.tryswift.co/events/2017/bangalore/) this fall!
