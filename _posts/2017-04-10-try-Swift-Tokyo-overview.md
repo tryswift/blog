@@ -82,7 +82,7 @@ After two days of learning, the third day was dedicated to attendees getting han
 
 ![try! Swift Tokyo Hackathon](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/hackathon.jpg)
 
-We were super impressed by what try! Swifters were able to accomiplish during the short hackathon. We saw a team trying to connect to a Robot using a Swift Playground! There were much more crazy creative ideas like this - participants were building Xcode plugins, Server-Side Swift tools, Apps, translation tools, and much more.
+We were super impressed by what try! Swifters were able to accomiplish during the short hackathon. We saw a team trying to connect to a <a href='https://www.youtube.com/watch?v=KuEuSrgoGk8' target='_blank'> Robot using a Swift Playground!</a> There were much more crazy creative ideas like this - participants were building Xcode plugins, Server-Side Swift tools, Apps, translation tools, and much more.
 
 ![try! Swift Tokyo Hackathon Robot](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/hackathon-robot.jpg)
 
@@ -162,24 +162,32 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 6. <p><a href='http://d.hatena.ne.jp/shu223/20170306/1488758892' target='_blank'>try! Swift 2017で「クライアントサイド・ディープラーニング」というLTをしました #tryswiftconfAdd Star</a></p>
 7. <p><a href='http://www.icapps.com/try-swift-tokyo-android-development-in-swift-inclusive-design-minimizing-decision-fatigue/' target='_blank'>Try! Swift Tokyo: Android development in Swift, inclusive design & minimizing decision fatigue</a></p>
 8. <p><a href='https://www.vincit.fi/en/blog/use-sequence-and-collection-extensions-in-swift/' target='_blank'>Use Sequence and Collection extensions in Swift to keep your code cleaner</a></p>
-9. <p><a href='https://www.vincit.fi/en/blog/use-sequence-and-collection-extensions-in-swift/' target='_blank'>Use Sequence and Collection extensions in Swift to keep your code cleaner</a></p>
-
-
-
+9. <p><a href='http://niwatako.hatenablog.jp/entry/2017/03/02/180735' target='_blank'>Build your own tools | try! Swift Tokyo 2017 # tryswiftconf Day 1 - 14 Hearing</a></p>
+10. <p><a href='http://blog.lisb.direct/entry/2017/03/21/103500' target='_blank'>I went to try! Swift Tokyo 2017</a></p>
+11. <p><a href='http://yutailang0119.hatenablog.com/entry/tryswiftconf-2017' target='_blank'>Try! Swift tokyo Participated in 2017 / volunteer staff</a></p>
+12. <p><a href='http://blog.personal-factory.com/2017/03/11/try-swift-report-in-1st-day/' target='_blank'>I joined try! Swift (day 1) </a>, <a href='http://blog.personal-factory.com/2017/03/18/try-swift-report-in-2nd-day/' target='_blank'>I joined try! Swift (day 2)</a> - Volunteer work</p>
+12. <p><a href='http://dev.classmethod.jp/smartphone/try-swift-tokyo-2017-1st-day-pm1/' target='_blank'>try! Swift TOKYO 2017 1st afternoon </a></p>
+13. <p><a href='http://niwatako.hatenablog.jp/entry/2017/03/02/160620' target='_blank'>Writing UI to Swifty</a></p>
+14. <p><a href='https://techblog.yahoo.co.jp/ios/try_swift_2017_hack/' target='_blank'>I joined Hackasson at try! Swift Tokyo 2017 # tryswifthack</a></p>
+15. <p><a href='http://dev.classmethod.jp/event/try-swift-tokyo-2017-2nd-day-pm1/' target='_blank'>try! Swift TOKYO 2017 Day 2 PM # tryswiftconf</a></p>
+16. <p><a href='https://www.chihayafuru.jp/tdiary/?date=20170302' target='_blank'>Chihayafuru Diary - try! Swift Tokyo 2017</a></p>
+17. <p><a href='http://techblog.housmart.co.jp/2017/03/10/tryswift2017/' target='_blank'>I joined try! Swift2017! 3 announcements announced!</a></p>
+18. <p><a href='http://devblog.thebase.in/entry/2017/03/08/090508' target='_blank'>Try! Swift 2017 - Day 2 Build a robust color system with Swift</a></p>
+19. <p><a href='http://qiita.com/roothybrid7/items/267ad11df4f87765588c' target='_blank'>Qiita - Try! Swift Tokyo 2017 & Links</a></p>
+20. <p><a href='http://nowsprinting.hatenablog.com/entry/2017/03/05/061441' target='_blank'>Try! Swift Tokyo 2017 Test system session summary # tryswiftconf</a></p>
+21. <p><a href='https://7gano.wordpress.com/2017/03/07/try-swift%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E6%9D%A5%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%8812%E5%B9%B4%E3%81%B6%E3%82%8A%E4%B8%80%E5%BA%A6%E7%9B%AE%EF%BC%89/' target='_blank'>I joined try! Swift (first time in 12 years)</a></p>
+22. <p><a href='http://tech.toreta.in/entry/2017/03/07/170324' target='_blank'>Toreta - I went to try! Swift Tokyo 2017</a></p>
+23. <p><a href='http://www.macneko.com/entry/tryswift-2017' target='_blank'>I participated as a volunteer staff on the second day of try! Swift Tokyo 2017</a></p>
+24. <p><a href='http://dev.classmethod.jp/event/try-swift-tokyo-2017-hackathon/?utm_source=dlvr.it&utm_medium=twitter' target='_blank'>Looking back as a Hackasson participant try! Swift TOKYO 2017 Hackasson # tryswiftconf</a></p>
+25. <p><a href='http://www.macneko.com/entry/tryswift-2017' target='_blank'>MALAYSIAN Girl in the land of the rising Sun - try! Swift Tokyo 2017</a></p>
+26. <p><a href='https://ja.ngs.io/2017/03/04/nxt-swift-playgrounds/' target='_blank'>Mindstorms NXT Swift Playground Book for iPad # tryswifthack</a></p>
+27. <p><a href='http://qiita.com/S_Shimotori/items/71af6e76f97c620c2c1f' target='_blank'>Current consideration of server side Swift # tryswiftconf</a></p>
+28. <p><a href='http://damenaragyouza.hatenablog.jp/entry/2017/03/06/005513' target='_blank'>Try swimming stories with try! Swift # tryswiftconf</a></p>
+29. <p><a href='https://medium.com/@jp_pancake/thank-you-for-everything-tryswiftconf-7cb970391c5a' target='_blank'>Thank you for everything! #tryswiftconf</a></p>
+30. And many more...
 
 
 # Podcasts # 
 
 1. <p><a href='https://fatalerror.fm/episodes/2017/3/13/21-try-swift-tokyo' target='_blank'>try! Swift Tokyo 2017 by FATAL ERROR</a></p>
-
-# Travel Highlights - Japan & Conference #
-
-![](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/travel-highlights/1.gif)
-
-
-<!-- # Testimonials #
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
