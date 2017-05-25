@@ -106,3 +106,7 @@ We still feel the energy of the conference as if it just happened yesterday. Eve
 We owe a big thank you to the amazing organizers and volunteers who helped make this magic happen. Their hard work and dedication to the community is priceless.
 
 Would like to attend the next try! Swift Conference? Join our family at [try! Swift NYC](https://www.tryswift.co/events/2017/nyc/) and [try! Swift India](https://www.tryswift.co/events/2017/bangalore/) this fall!
+
+## Sponsors ##
+
+
