@@ -152,7 +152,7 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/matt.jpg) | Matt Gillingham | <a href='https://twitter.com/gillygize' target='_blank'>@gillygize</a>
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/yucovin.jpg) | Nino Sakuma | <a href='https://twitter.com/yucovin' target='_blank'>@yucovin</a>
 
-# Inspired People - Articles #
+# Articles - Inspired People  #
 
 1. <p><a href='https://www.linkedin.com/pulse/try-swift-empowering-community-innovation-roadmap-apple-artis-birzins' target='_blank'>Try! Swift Empowering the Community and Innovation Roadmap for Apple iOS Developers</a></p>
 2. <p><a href='http://qualitycoding.org/try-swift-tokyo-impressions/' target='_blank'>Love Swift? Want to Visit Charming / Quirky Japan?</a></p>
