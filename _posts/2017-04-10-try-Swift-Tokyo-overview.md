@@ -151,3 +151,35 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/akio.jpg) | Shingo Sato | <a href='https://twitter.com/akio0911' target='_blank'>@akio0911</a>
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/matt.jpg) | Matt Gillingham | <a href='https://twitter.com/gillygize' target='_blank'>@gillygize</a>
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/yucovin.jpg) | Nino Sakuma | <a href='https://twitter.com/yucovin' target='_blank'>@yucovin</a>
+
+# Inspired People - Articles #
+
+1. <p><a href='https://www.linkedin.com/pulse/try-swift-empowering-community-innovation-roadmap-apple-artis-birzins' target='_blank'>Try! Swift Empowering the Community and Innovation Roadmap for Apple iOS Developers</a></p>
+2. <p><a href='http://qualitycoding.org/try-swift-tokyo-impressions/' target='_blank'>Love Swift? Want to Visit Charming / Quirky Japan?</a></p>
+3. <p><a href='http://playcontrol.net/ewing/jibberjabber/swift-on-android-at-try.html' target='_blank'>try! Swift Tokyo 2017 Swift on Android workshop</a></p>
+4. <p><a href='http://qualitycoding.org/try-swift-mock-objects/' target='_blank'>How to Make Swift Mock Objects More Useful</a></p>
+5. <p><a href='http://akatsuki174.hatenablog.com/entry/20170415/1492256195' target='_blank'>Make the mock object more convenient</a></p>
+6. <p><a href='http://d.hatena.ne.jp/shu223/20170306/1488758892' target='_blank'>try! Swift 2017で「クライアントサイド・ディープラーニング」というLTをしました #tryswiftconfAdd Star</a></p>
+7. <p><a href='http://www.icapps.com/try-swift-tokyo-android-development-in-swift-inclusive-design-minimizing-decision-fatigue/' target='_blank'>Try! Swift Tokyo: Android development in Swift, inclusive design & minimizing decision fatigue</a></p>
+8. <p><a href='https://www.vincit.fi/en/blog/use-sequence-and-collection-extensions-in-swift/' target='_blank'>Use Sequence and Collection extensions in Swift to keep your code cleaner</a></p>
+9. <p><a href='https://www.vincit.fi/en/blog/use-sequence-and-collection-extensions-in-swift/' target='_blank'>Use Sequence and Collection extensions in Swift to keep your code cleaner</a></p>
+
+
+
+
+
+# Podcasts # 
+
+1. <p><a href='https://fatalerror.fm/episodes/2017/3/13/21-try-swift-tokyo' target='_blank'>try! Swift Tokyo 2017 by FATAL ERROR</a></p>
+
+# Travel Highlights - Japan & Conference #
+
+![](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/travel-highlights/1.gif)
+
+
+<!-- # Testimonials #
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
