@@ -109,7 +109,7 @@ Would like to attend the next try! Swift Conference? Join our family at [try! Sw
 
 ## Photos ##
 
-To see all photos from try! Swift Tokyo 2017 Conference go <a href='https://flickr.com/photos/tryswift/albums' target='_blank'>here</a>. 
+See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/tryswift/albums' target='_blank'>here</a>.
 
 # Gold Sponsors #
 
@@ -129,18 +129,19 @@ To see all photos from try! Swift Tokyo 2017 Conference go <a href='https://flic
 ![try! Swift Tokyo 2017 Silver Sponsor](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/silver/ohako.png) | ![try! Swift Tokyo 2017 Silver Sponsor](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/silver/ookami.png) | ![try! Swift Tokyo 2017 Silver Sponsor](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/silver/payjp.png)
 ![try! Swift Tokyo 2017 Silver Sponsor](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/silver/prtimes.png) | ![try! Swift Tokyo 2017 Silver Sponsor](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/silver/ubiregi.png)
 
+# Student Sponsors #
+
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/cyberagent.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/mercari.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/prtimes.png) 
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/sansan.png) |
+
 # Partners #
 
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/pivotal.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/app_dojo.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/happydigital.png) 
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/meetup.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/nifty.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/ninedrafts.png) 
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/oisix.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/2-3works.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/partner/polidea.png) 
 
-# Student Sponsor #
 
-![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/cyberagent.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/mercari.png) | ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/prtimes.png) 
-![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/sponsors/tokyo-2017/student/sansan.png) |
-
-# Main Organisers #
+# Main Organizers #
 
 <p>Kastumi Kishikawa - <a href='https://twitter.com/K_katsumi' target='_blank'>@K_katsumi</a> </p>
 <p>Satoshi Hachiyasan - <a href='https://twitter.com/jpmartha_jp' target='_blank'>@jpmartha_jp</a></p>
