@@ -196,7 +196,9 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 <img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/1.png'>
 <img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/last.png'>
 </center>
-<hr>
 
+<hr>
+<!-- Author: Alvin Varghese - <a href='https://twitter.com/aaalveee' target='_blank'>@aaalveee</a>
+ -->
 
 
