@@ -3,7 +3,7 @@ layout:     post
 title:      try! Swift Tokyo 2017
 date:       2017-05-19
 summary:    This article is an overview of the try! Swift Conference in Tokyo, which happened in early March 2017. With 30+ Speakers, 30+ Sponsors, and 700+ attendees, it was the biggest Swift conference in the world!
-categories: try!Swift Tokyo
+categories: trySwift Tokyo
 ---
 
 ![try! Swift Tokyo Conference Signs](https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/try-swift-tokyo-2017.jpg)
