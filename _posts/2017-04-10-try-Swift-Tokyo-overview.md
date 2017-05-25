@@ -193,9 +193,20 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 
 # try! Swift Tokyo 2017 Icon Set #
 
-![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko1.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko2.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko3.png)
-![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko_nomal.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/announce1.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/announce2.png)	
-![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/bento1.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/bento2.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/breakfast.png)	
+<!-- <center> -->
+	
+<img src="https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/sponsors.jpg" width="150" hidden="150">
+
+<!--  <!-- <img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko1.png' width='150' hidden='150'> -->
+ <!-- <img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko2.png' hidden="150" width="150">
+<img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko3.png' hidden="150" width="150">
+<img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/Riko_nomal.png' hidden="150" width="150">
+<img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/announce1.png' hidden="150" width="150">
+<img src='https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/announce2.png' hidden="150" width="150"> -->
+
+<!-- </center> -->
+
+![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/bento1.png =150x150) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/bento2.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/breakfast.png)	
 ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/breaktime1.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/dinner.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/lunch.png)	
 ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/donuts1.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/donuts2.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/party1.png)
 ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/party2.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/WatchLogo.png) | ![try! Swift Tokyo 2017 Icon Set](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/fun/iPhone7.png)	
