@@ -103,6 +103,6 @@ It was a great day, with participants very happy about both the hackathon and th
 
 We still feel the energy of the conference as if it just happened yesterday. Even though the conference is over, the learning and community built during the event is just the beginning. Conference attendees continue to form study groups, meetups, and friendships in their community and around the world!
 
-We own a big thank you to the amazing organizers and volunteers who helped make this magic happen. Their hard work and dedication to the community is priceless.
+We owe a big thank you to the amazing organizers and volunteers who helped make this magic happen. Their hard work and dedication to the community is priceless.
 
 Would like to attend the next try! Swift Conference? Join our family at [try! Swift NYC](https://www.tryswift.co/events/2017/nyc/) and [try! Swift India](https://www.tryswift.co/events/2017/bangalore/) this fall!
