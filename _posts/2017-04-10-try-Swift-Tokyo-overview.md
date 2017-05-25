@@ -143,11 +143,11 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 
 # Main Organizers #
 
-<p>Natasha Murashev - <a href='https://twitter.com/natashatherobot' target='_blank'>@natashatherobot</a> </p>
-<p>Kastumi Kishikawa - <a href='https://twitter.com/K_katsumi' target='_blank'>@K_katsumi</a> </p>
-<p>Kazunobu Tasaka - <a href='https://twitter.com/tasanobu' target='_blank'>@tasanobu</a> </p>
-<p>Satoshi Hachiya - <a href='https://twitter.com/jpmartha_jp' target='_blank'>@jpmartha_jp</a></p>
-<p>Himi Sato - <a href='https://twitter.com/himisanta' target='_blank'>@himisanta</a></p>
-<p>Shingo Sato - <a href='https://twitter.com/jpmartha_jp' target='_blank'>@akio0911</a></p>
-<p>Matt Gillingham - <a href='https://twitter.com/gillygize' target='_blank'>@gillygize</a></p>
-<p>Nino Sakuma - <a href='https://twitter.com/yucovin' target='_blank'>@yucovin</a></p>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/natasha.jpg) | Natasha Murashev | <a href='https://twitter.com/natashatherobot' target='_blank'>@natashatherobot</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/katsumi.jpg) | Kastumi Kishikawa | <a href='https://twitter.com/K_katsumi' target='_blank'>@K_katsumi</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/tasanobu.jpg) | Kazunobu Tasaka | <a href='https://twitter.com/tasanobu' target='_blank'>@tasanobu</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/jpmarthajp.jpg) | Satoshi Hachiya | <a href='https://twitter.com/jpmartha_jp' target='_blank'>@jpmartha_jp</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/himi.jpg) | Himi Sato | <a href='https://twitter.com/himisanta' target='_blank'>@himisanta</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/akio.jpg) | Shingo Sato | <a href='https://twitter.com/akio0911' target='_blank'>@akio0911</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/matt.jpg) | Matt Gillingham | <a href='https://twitter.com/gillygize' target='_blank'>@gillygize</a>
+![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/yucovin.jpg) | Nino Sakuma | <a href='https://twitter.com/yucovin' target='_blank'>@yucovin</a>
