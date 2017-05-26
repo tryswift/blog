@@ -198,7 +198,7 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 </center>
 
 <hr>
-<!-- Author: Alvin Varghese - <a href='https://twitter.com/aaalveee' target='_blank'>@aaalveee</a>
- -->
+<i>Author: Alvin Varghese - <a href='https://twitter.com/aaalveee' target='_blank'>@aaalveee</a></i>
+
 
 
