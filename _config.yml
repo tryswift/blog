@@ -2,6 +2,7 @@
 title:       try! Swift Blog
 email:       alvin@tryswiftlabs.com
 author:      Alvin Varghese
+twitter:     aaalveee
 description: "try! Swift International Conference"
 baseurl:     ""
 url:         "https://tryswift.co"
@@ -47,7 +48,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: tryswiftconf
 skype_username:
 steam_nickname:
 google_plus_id:
