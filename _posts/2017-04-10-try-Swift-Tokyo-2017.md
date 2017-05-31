@@ -37,7 +37,7 @@ Do you recognize the Japanese and English words in the sign below? Yes, the conf
 <img src="https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/attendee-type.jpg">
 </center>
 
-We hired an amazing Japanese / English translation team to simultaneously translate each talk from English to Japanese or from Japanese to English. We gave out wireless receivers to attendees who wanted to hear the translation. To hear the translation, they just had to tune the device to the correct channel. More attendees had to use this device and loved it! It's a truly magical experience to hear a talk translated like that!
+We hired an amazing Japanese / English translation team [ KY Trade Co, Ltd ] to simultaneously translate each talk from English to Japanese or from Japanese to English. We gave out wireless receivers to attendees who wanted to hear the translation. To hear the translation, they just had to tune the device to the correct channel. More attendees had to use this device and loved it! It's a truly magical experience to hear a talk translated like that!
 
 <center>
 <img src="https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/english-japanese.jpg">
@@ -109,7 +109,7 @@ Would like to attend the next try! Swift Conference? Join our family at [try! Sw
 
 ## Photos ##
 
-See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/tryswift/albums' target='_blank'>here</a>.
+See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/tryswift/albums' target='_blank'>here</a>. Thanks a lot to Takashi Kaga.
 
 # Platnium Sponsors #
 
