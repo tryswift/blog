@@ -1,11 +1,11 @@
 # Site settings
-title:       try! Swift Blog
+title:       try! Swift
 email:       alvin@tryswiftlabs.com
 author:      Alvin Varghese
 twitter:     aaalveee
 description: "try! Swift International Conference"
 baseurl:     ""
-url:         "https://tryswift.co"
+url:         "https://blog.tryswift.co"
 date_format: "%b %-d, %Y"
 
 # Google services
