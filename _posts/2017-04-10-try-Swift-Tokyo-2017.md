@@ -155,6 +155,7 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 # Volunteers #
 
 <p>Hideyuki Nanashima</p>
+<p>Daiki Matsudate</p>
 <p>Akihiro Orita</p>
 <p>Ben Guild</p>
 <p>Yutaro Muta</p>
