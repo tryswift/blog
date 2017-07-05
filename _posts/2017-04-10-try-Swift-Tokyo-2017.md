@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      try! Swift Tokyo 2017
-date:       2017-05-19
+date:       2017-05-31
 summary:    This article is an overview of the try! Swift Conference in Tokyo, which happened in early March 2017. With 30+ Speakers, 30+ Sponsors, and 700+ attendees, it was the biggest Swift conference in the world!
 categories: trySwift Tokyo
 ---
@@ -37,7 +37,7 @@ Do you recognize the Japanese and English words in the sign below? Yes, the conf
 <img src="https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/attendee-type.jpg">
 </center>
 
-We hired an amazing Japanese / English translation team to simultaneously translate each talk from English to Japanese or from Japanese to English. We gave out wireless receivers to attendees who wanted to hear the translation. To hear the translation, they just had to tune the device to the correct channel. More attendees had to use this device and loved it! It's a truly magical experience to hear a talk translated like that!
+We hired an amazing Japanese / English translation team [ KY Trade Co, Ltd ] to simultaneously translate each talk from English to Japanese or from Japanese to English. We gave out wireless receivers to attendees who wanted to hear the translation. To hear the translation, they just had to tune the device to the correct channel. More attendees had to use this device and loved it! It's a truly magical experience to hear a talk translated like that!
 
 <center>
 <img src="https://raw.githubusercontent.com/tryswift/blog/master/images/tokyo-2017/english-japanese.jpg">
@@ -109,7 +109,7 @@ Would like to attend the next try! Swift Conference? Join our family at [try! Sw
 
 ## Photos ##
 
-See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/tryswift/albums' target='_blank'>here</a>.
+See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/tryswift/albums' target='_blank'>here</a>. Thanks a lot to Takashi Kaga.
 
 # Platnium Sponsors #
 
@@ -151,6 +151,34 @@ See all photos from try! Swift Tokyo 2017 <a href='https://flickr.com/photos/try
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/akio.jpg) | Shingo Sato | <a href='https://twitter.com/akio0911' target='_blank'>@akio0911</a>
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/matt.jpg) | Matt Gillingham | <a href='https://twitter.com/gillygize' target='_blank'>@gillygize</a>
 ![try! Swift Tokyo 2017 Partner](https://github.com/tryswift/blog/raw/master/images/tokyo-2017/organizers/yucovin.jpg) | Nino Sakuma | <a href='https://twitter.com/yucovin' target='_blank'>@yucovin</a>
+
+# Volunteers #
+
+<p>Hideyuki Nanashima</p>
+<p>Daiki Matsudate</p>
+<p>Akihiro Orita</p>
+<p>Ben Guild</p>
+<p>Yutaro Muta</p>
+<p>Wataru Nishimoto</p>
+<p>Yuu Ogasawara</p>
+<p>Yuichi Kato</p>
+<p>Yuta Hoshino</p>
+<p>Miho Sasaki</p>
+<p>Shingo Tamaki</p>
+<p>Fumiya Sakai</p>
+<p>Yoshiyasu Shirasawa</p>
+<p>Yoichiro Sakurai</p>
+<p>Teemu Tossavainen</p>
+<p>Hodaka Fukushima</p>
+<p>Kojiro Yokota</p>
+<p>Takeshi Sato</p>
+<p>Satoru Ohguchi</p>
+<p>Soya Takahashi</p>
+<p>Aoi Fukuoka</p>
+<p>Ryohei Arai</p>
+<p>Toshiki Takezawa</p>
+<p>Yuya Oka</p>
+
 
 # Articles - Inspired People  #
 
