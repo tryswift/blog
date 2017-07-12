@@ -10,7 +10,7 @@ Organizing conferences is super stressful and risky. Not many people might reali
 
 So why do I keep doing it? I ask myself that question every time it gets closer to a conference and the stress starts adding up. But then I remember all the connections made, all the jobs received, all the open source contributions made, all the amazing talks, and actual big life changes for those who have attended and spoken at try! Swift in the past.
 
-Attending conferences makes a HUGE difference for many. Not for everyone and maybe not right away, but in the longer term, the connections and inspiration gained from the experience adds up to amazing results that benefit the community as a whole.
+Attending conferences makes a HUGE difference for many. Not for everyone and maybe not right away, but in the longer term, the connections and inspiration gained from the experience add up to amazing results that benefit the community as a whole.
 
 I would love to make this experience available for everyone, so there is no baseline for attendees. But unfortunately, as I mentioned, organizing such an event costs a lot upfront and the cost can only be recovered with expensive tickets and sponsors.
 
