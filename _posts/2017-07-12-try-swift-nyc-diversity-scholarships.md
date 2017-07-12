@@ -5,6 +5,7 @@ date:       2017-07-05
 summary:    try! Swift is about bringing together talent from all around the world, and we want to make sure everyone is included!
 categories: diversity, tryswiftnyc, nyc, scholarships
 ---
+TL;DR: [Apply here](https://goo.gl/forms/bE2SxGNYMkmbMXGn2) or email us at nyc at tryswift.co to sponsor!
 
 Organizing conferences is super stressful and risky. Not many people might realize it, but it requires putting all your personal money upfront and hoping that you'll break even. Especially in a city like New York, it is A LOT of money to gamble!
 
