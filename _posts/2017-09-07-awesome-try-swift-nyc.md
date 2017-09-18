@@ -8,14 +8,14 @@ summary:    Awesome try! Swift New York Conference 2017. Experiences of an Atten
 <img src="/images/nyc-2017/3.jpg" align="center">
 
 
-Hello Everyone, <a href="https://twitter.com/aaalveee" target="_blank">Alvin</a> here, I'm one of the co-organiser of try! Swift Conferences. I'm really excited to share you the expereinces of try! Swift NYC attendees which I have put together. 
+Hello Everyone, <a href="https://twitter.com/aaalveee" target="_blank">Alvin</a> here, I'm one of the co-organiser of try! Swift Conferences. I'm really excited to share with you the experiences of try! Swift NYC attendees which I have put together. 
 
-I thought about sharing to the world how great try! Swift NYC was in different perpectives. Experiences of an Attendee, a Speaker, and a Volunteer. Let's hear it from them. 
+I thought about sharing with you how great try! Swift NYC 2017 was in three different perspectives. Experiences of an Attendee, a Speaker, and a Volunteer. Let's hear it from them. 
 
 <hr>
 
 <h2>Attendee - <a href="https://twitter.com/AndrewRohn" target="_blank">Andrew Rohn</a></h2>  
-<i>Andrew is an iOS Engineer at Reddit. He also hosts Inside iOS Dev podcast.</i>
+<i>Andrew is an iOS Engineer at Reddit. He also hosts the Inside iOS Dev podcast</i>
 
 try! Swift 2017 New York City was an invigorating swirl of community, learning, and fun. Throw in a magician, musical performances, and cupcake-based learning and you had the recipe for an unforgettable event. The conference featured iOS community celebrities like the author and Swift contributor Erica Sadun, author and speaker Ash Furrow, and Cocoa with Love writer Matt Gallagher. And topics ranged from application architecture, to the subtle power of Swift, to machine ethics, and more. In all, try! Swift 2017 New York City was a showcase of the magic that transpires when you throw together a diverse group of passionate people to geek out over Swift and iOS. The following is a recount of my experience as an attendee.
 
