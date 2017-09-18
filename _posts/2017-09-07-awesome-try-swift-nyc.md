@@ -2,7 +2,7 @@
 layout:     post
 title:      Awesome try! Swift New York Conference 2017
 date:       2017-09-07
-summary:    Awesome try! Swift New York Conference 2017
+summary:    Awesome try! Swift New York Conference 2017. Experiences of an Attendee, a Speaker, and a Volunteer.
 ---
 
 <img src="/images/nyc-2017/3.jpg" align="center">
@@ -32,6 +32,8 @@ From then on out, the show swam along for the next two days from the quirky, to 
 All this happened in the context of a vibrant and diverse community of people. Just as interesting as the talks themselves were the conversations and new relationships that were formed between everyone. In the hallways, people troubleshooted their problems or commiserated on the pitfalls of software development. And the second night of the event was celebrated by heading out for drinks and bowling where I showcased my affinity for the gutter.
 
 Thank you Natasha and the whole try! Swift team for hosting the event and bringing an incredible group together. I think you're all doing an incredible job at elevating and educating the Swift and iOS communities.
+
+Also check out Andrew's <a href="http://insideiosdev.com/tryswiftnyc2017" target="_blank"> podcast </a>about try! Swift NYC 2017. 
 
 <hr>
 
