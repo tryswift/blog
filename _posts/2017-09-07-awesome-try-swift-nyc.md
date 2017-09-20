@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Awesome try! Swift New York Conference 2017
+title:      try! Swift NYC 2017 - Experiences of an Attendee, a Speaker, and a Volunteer
 date:       2017-09-07
 summary:    Awesome try! Swift New York Conference 2017. Experiences of an Attendee, a Speaker, and a Volunteer.
 ---
@@ -8,9 +8,7 @@ summary:    Awesome try! Swift New York Conference 2017. Experiences of an Atten
 <img src="/images/nyc-2017/3.jpg" align="center">
 
 
-Hello Everyone, <a href="https://twitter.com/aaalveee" target="_blank">Alvin</a> here, I'm one of the co-organiser of try! Swift Conferences. I'm really excited to share with you the experiences of try! Swift NYC attendees which I have put together. 
-
-I thought about sharing with you how great try! Swift NYC 2017 was in three different perspectives. Experiences of an Attendee, a Speaker, and a Volunteer. Let's hear it from them. 
+Hello Everyone, <a href="https://twitter.com/aaalveee" target="_blank">Alvin</a> here, I'm one of the try! Swift co-organizers. I thought it would be cool to share what try! Swift NYC 2017 was like from three different perspectives. Experiences of an Attendee, a Speaker, and a Volunteer. Let's hear it from them.
 
 <hr>
 
@@ -33,7 +31,7 @@ All this happened in the context of a vibrant and diverse community of people. J
 
 Thank you Natasha and the whole try! Swift team for hosting the event and bringing an incredible group together. I think you're all doing an incredible job at elevating and educating the Swift and iOS communities.
 
-Also check out Andrew's <a href="http://insideiosdev.com/tryswiftnyc2017" target="_blank"> podcast </a>about try! Swift NYC 2017. 
+Also check out Andrew's <a href="http://insideiosdev.com/tryswiftnyc2017" target="_blank"> podcast </a>about try! Swift NYC 2017.
 
 <hr>
 
@@ -64,25 +62,6 @@ My first experience attending and volunteering at try! Swift NYC was a very posi
 <hr>
 
 
-Thanks to all Volunteers, Speakers, Attendees, and amazing SPONSORS for making try! Swift NYC 2017 really awesome! 
+Thanks to all Volunteers, Speakers, Attendees, and amazing SPONSORS for making try! Swift NYC 2017 really awesome!
 
-Don't forget to check out try! Swift NYC <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank">Photos</a> and <a href="https://twitter.com/tryswiftnyc/" target="_blank">Tweets</a>. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Don't forget to check out try! Swift NYC <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank">Photos</a> and <a href="https://twitter.com/tryswiftnyc/" target="_blank">Tweets</a>.
