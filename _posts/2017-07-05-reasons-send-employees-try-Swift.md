@@ -9,7 +9,7 @@ categories: education, training
 >"CFO: What happens if we train them and they leave?"
 >"CEO: What happens if we don’t and they stay?"
 
-And in case that quote is not enough, we've put together a list of *7 reasons* to send your your hard-working incredibly amazing employees to a try! Swift Conference this year.
+And in case that quote is not enough, we've put together a list of *7 reasons* to send your hard-working incredibly amazing employees to a try! Swift Conference this year.
 
 ## WORLD-CLASS TRAINING
 try! Swift sources world-class talent to teach your employees about the latest and greatest in Swift language best practices, iOS development tips & tricks, and much more!
